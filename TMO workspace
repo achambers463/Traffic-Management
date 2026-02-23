@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>23d LRS Traffic Management - Moody AFB</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f6f8;
+            color: #333;
+        }
+        header {
+            background: #002147;
+            color: white;
+            padding: 30px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px 40px;
+        }
+        h1, h2 {
+            margin-top: 0;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .link-list a {
+            display: block;
+            padding: 8px 0;
+            color: #0047ab;
+            text-decoration: none;
+        }
+        .link-list a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background: #002147;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>23d LRS Traffic Management (2T0X1)</h1>
+    <p>Supporting the Mission of the 23d Wing — Agile Combat Support for Global Operations</p> </header>
+
+<div class="container">
+
+    <section class="section">
+        <h2>About Traffic Management</h2>
+        <p>Traffic Management (AFSC 2T0X1) is responsible for coordinating and executing the movement of personnel, cargo, and equipment across the Air Force Enterprise. At the <strong>23d Logistics Readiness Squadron</strong> (23d LRS), Traffic Management ensures strategic and tactical mobility support for the <strong>23d Wing</strong> mission at <strong>Moody Air Force Base, GA</strong> and deployed locations worldwide.</p>
+    </section>
+
+    <section class="section">
+        <h2>23d Wing Mission</h2>
+        <p>The 23d Wing provides rapid global mobility and precision engagement, ensuring readiness to execute joint and combined operations anytime, anywhere. Traffic Management plays a key role in enabling mission success by facilitating cargo and personnel movements in support of global taskings.</p>
+    </section>
+
+    <section class="section">
+        <h2>Customer Resources</h2>
+        <div class="link-list">
+            <a href="https://www.move.mil" target="_blank">📦 Military Move Portal — move.mil</a>
+            <a href="https://www.pcsmypay.com" target="_blank">💳 PCS MyPay / Travel Vouchers</a>
+            <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104486/air-force-mobility-warfare-centers/" target="_blank">✈️ Air Force Mobility & Warfare Centers Info</a>
+            <a href="https://www.dfas.mil" target="_blank">💰 Defense Finance and Accounting Service (DFAS)</a>
+            <a href="https://www.uscis.gov" target="_blank">🛂 Immigration and Citizenship Info — USCIS</a>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2>Traffic Management Personnel Tools</h2>
+        <div class="link-list">
+            <a href="https://afkm.wpafb.af.mil/" target="_blank">📘 Air Force Knowledge Management (AFKM)</a>
+            <a href="https://www.jointmovements.com" target="_blank">🚚 Joint Movements Portal</a>
+            <a href="https://www.sddc.army.mil" target="_blank">🚢 Surface Deployment and Distribution Command (SDDC)</a>
+            <a href="https://www.fedex.com/en-us/learning-center/logistics.html" target="_blank">📊 FedEx Logistics Resources</a>
+            <a href="https://www.dscp.dla.mil" target="_blank">📦 Defense Logistics Agency (DLA) Resources</a>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2>Contact the 23d LRS Traffic Management</h2>
+        <p>For specific traffic management assistance, scheduling, or shipment tracking questions, reach out to the 23d LRS Traffic Management Office through official Moody AFB contact channels or your unit Traffic Management Liaison (TMO).</p>
+    </section>
+
+</div>
+
+<footer>
+    <p>23d Logistics Readiness Squadron • Moody Air Force Base, GA • Supporting the Mighty 23d Wing</p> </footer>
+
+</body>
+</html>
